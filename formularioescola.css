@@ -1,0 +1,18 @@
+body {
+ background-image: url(https://http2.mlstatic.com/D_NQ_NP_999116-MLB43019616611_082020-O.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+
+.container{
+    background-color: azure;
+    width: 380px;
+    height: 370px;
+    color: rgb(19, 36, 36);
+    margin: 190px;
+    text-align: center;
+    padding: 30px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   box-shadow: 7px 14px 24px black;
+}
